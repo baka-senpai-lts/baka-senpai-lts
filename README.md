@@ -17,5 +17,5 @@ Sandwiches that don’t fall apart
 Premature abstractions
 “It works on my machine” (it’s always my machine that breaks it)
 
-## Currently
-Trying to make the impossible look effortless, one compile at a time.
+## All the other stuff
+Repositiories here are mostly just mirrors from my [Gitlab](https://gitlab.com/baka.senpai.lts)
