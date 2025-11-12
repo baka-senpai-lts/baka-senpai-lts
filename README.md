@@ -22,5 +22,10 @@ Premature abstractions
 
 “It works on my machine” (it’s always my machine that breaks it)
 
+## Check out these projects
+[defWorld](https://github.com/baka-senpai-lts/defWorld) - C++ framework implementing ECS
+
+[The Shell Guide](https://github.com/baka-senpai-lts/the-shell-guide) - Guide on UNIX shell
+
 ## All the other stuff
 Repositiories here are mostly just mirrors from my [Gitlab](https://gitlab.com/baka.senpai.lts)
