@@ -25,7 +25,7 @@ Premature abstractions
 ## Check out these projects
 [defWorld](https://github.com/baka-senpai-lts/defWorld) - C++ framework implementing ECS
 
-[The Shell Guide](https://github.com/baka-senpai-lts/the-shell-guide) - Guide on UNIX shell
+[The Shell Guide](https://github.com/baka-senpai-lts/the-shell-guide) - Guide on UNIX shell written out of spite
 
 ## All the other stuff
 Repositiories here are mostly just mirrors from my [Gitlab](https://gitlab.com/baka.senpai.lts)
