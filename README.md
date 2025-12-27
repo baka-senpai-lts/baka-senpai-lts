@@ -26,18 +26,31 @@ Premature abstractions
 
 A student approaches master.
 
+
 Student: "Master, how do I write a program that doesn't leak memory?"
+
 Master: "First, tell me: where does memory go when freed?"
+
 Student: "Back to the system"
+
 Master: "And where did it come from?"
+
 Student: "From the system"
+
 Master: "You cannot lose what has never gone"
+
 Student: "But what if I allocate and never free?"
+
 Master: "What came, goes. What goes, came. This is the way"
+
 Student: "So I should carefully manage my lifetime?"
+
 Master: "Does an ocean care about every raindrop that has fallen into it?"
+
 Student: "But it contains them all"
+
 Master: "Write code like an ocean. Every drop must return back home"
+
 
 Upon hearing that the student achieved enlightenment.
 
