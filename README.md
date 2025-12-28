@@ -22,10 +22,13 @@ Premature abstractions
 
 “It works on my machine” (it’s always my machine that breaks it)
 
+## Check out these projects
+[defWorld](https://github.com/baka-senpai-lts/defWorld) - C++ framework implementing ECS
+
+[The Shell Guide](https://github.com/baka-senpai-lts/the-shell-guide) - Guide on UNIX shell written out of spite
+
 ## Master and a memory leak
-
 A student approaches master.
-
 
 Student: "Master, how do I write a program that doesn't leak memory?"
 
@@ -51,13 +54,7 @@ Student: "But it contains them all"
 
 Master: "Write code like an ocean. Every drop must return back home"
 
-
 Upon hearing that the student achieved enlightenment.
-
-## Check out these projects
-[defWorld](https://github.com/baka-senpai-lts/defWorld) - C++ framework implementing ECS
-
-[The Shell Guide](https://github.com/baka-senpai-lts/the-shell-guide) - Guide on UNIX shell written out of spite
 
 ## All the other stuff
 Repositiories here are mostly just mirrors from my [Gitlab](https://gitlab.com/baka.senpai.lts)
