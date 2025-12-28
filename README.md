@@ -25,6 +25,8 @@ Premature abstractions
 ## Check out these projects
 [defWorld](https://github.com/baka-senpai-lts/defWorld) - C++ framework implementing ECS
 
+[scalc](https://github.com/baka-senpai-lts/scalc) - My very own functional programming language interpreter written in C99
+
 [The Shell Guide](https://github.com/baka-senpai-lts/the-shell-guide) - Guide on UNIX shell written out of spite
 
 ## Master and a memory leak
